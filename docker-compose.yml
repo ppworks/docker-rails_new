@@ -1,6 +1,6 @@
 version: '3'
 services:
-  rails:
+  rails-new:
     build:
       context: .
       dockerfile: Dockerfile
